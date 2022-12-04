@@ -5,3 +5,4 @@ const minutsInHour = 60;
 const secondInHour = secondInMinuts * minutsInHour;
 
 alert(hoursNow * secondInHour);
+console.log('Код валідний');
